@@ -36,4 +36,4 @@ And finally install the dependencies:
 
 ## To get MY application instead of the getting-MEAN application
 
-`$ git clone -b main https://github.com/mrdthdll4/loc8r-assignment.git
+`$ git clone -b main https://github.com/mrdthdll4/loc8r-assignment.git`
