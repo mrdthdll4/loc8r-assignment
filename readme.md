@@ -33,3 +33,7 @@ Then change into the folder the git clone command will create:
 And finally install the dependencies:
 
 `npm install`
+
+## To get MY application instead of the getting-MEAN application
+
+`$ git clone -b main https://github.com/mrdthdll4/loc8r-assignment.git
