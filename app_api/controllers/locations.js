@@ -83,6 +83,7 @@ module.exports.locationsCreate = function(req, res) {
     Loc.create({
         name: req.body.name,
         address: req.body.address,
+        rating: req.body.rating,
         facilities: req.body.facilities.split(","), 
         coords: [parseFloat(req.body.lng), parseFloat(req.body.lat)], 
         openingTimes: [{
